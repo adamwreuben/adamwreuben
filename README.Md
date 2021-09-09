@@ -17,15 +17,10 @@
 
 <br />
 
-<br />
-<br />
-
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="adamwr8's GitHub Stats" src="https://github-readme-stats.adamwreuben.vercel.app/api?username=adamwreuben&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://codeSTACKr.com
