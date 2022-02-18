@@ -8,6 +8,14 @@
 - 🌱 I’m currently learning everything 🤣. TRY ME
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
+## About me
+- I love writing code and talking about angular
+- I love working with Typescript
+- I love swimming
+- I love taking photographs
+- I love Cooking
+- And I love Running
+
 ### Check With Me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
