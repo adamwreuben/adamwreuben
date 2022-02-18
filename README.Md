@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adamwr8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadamwr8&screen_name=adamwr8)
 
-## I'm a  Developer, and AI Enthusiast!!
+## I'm a  Developer, and AI and ANGULAR Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣. TRY ME
 - 🥅 2022 Goals: Contribute more to Open Source projects
