@@ -7,9 +7,9 @@
 <h2 align="center">Hi there, I'm Adam Reuben 👋</h2>
 <p align="center">I'm a  Developer, and AI and ANGULAR Enthusiast!!</p>
 <p align="center">
-  <div>
-  <img align="left" alt="adamwr8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </div>
+  <a href="https://twitter.com/AdamWR8">
+    <img width="480" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+  </a>
 </p>
 
 <div align="center">
