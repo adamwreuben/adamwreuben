@@ -4,10 +4,11 @@
   </a>
 </p>
 
-<h3 align="center">### Hi there, I'm Adam Reuben 👋</h3>
+<h2 align="center">Hi there, I'm Adam Reuben 👋</h2>
 <p align="center">I'm a  Developer, and AI and ANGULAR Enthusiast!!</p>
 <p align="center">
-  [![Twitter Follow](https://img.shields.io/twitter/follow/adamwr8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadamwr8&screen_name=adamwr8)
+  <a href="https://img.shields.io/twitter/follow/adamwr8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadamwr8&screen_name=adamwr8">
+  </a>
 </p>
 
 <div align="center">
