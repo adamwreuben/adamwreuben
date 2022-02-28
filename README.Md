@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a>
+    <img width="480" src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg">
+  </a>
+</p>
 
 <h3 align="center">### Hi there, I'm Adam Reuben 👋</h3>
 <p align="center">I'm a  Developer, and AI and ANGULAR Enthusiast!!</p>
