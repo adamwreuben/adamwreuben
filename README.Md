@@ -8,7 +8,7 @@
 <p align="center">I'm a  Developer, and AI and ANGULAR Enthusiast!!</p>
 <p align="center">
   <a href="https://twitter.com/AdamWR8">
-    <img width="480" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+    <img width="50" height="50 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
   </a>
 </p>
 
