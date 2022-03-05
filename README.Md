@@ -5,8 +5,7 @@
 </p>
 
 <h2 align="center">Hi there, I'm Adam Reuben 👋</h2>
-<p align="center">I'm a  Developer, and AI and ANGULAR Enthusiast!!</p>
-<p align="center">I love writing code and talking about angular</p>
+<p align="center">I love writing code and talking about Reactjs, Nextjs and Angular</p>
 
 
 <div align="center">
