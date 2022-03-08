@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hi there, I'm <a href="https://adamwreuben.github.io/me_portifolio/">Adam Reuben</a> 👋</h2>
-<p align="center">I love writing code and talking about Reactjs, Nextjs and Angular</p>
+<code align="center">Work smarter, not harder</code>
 
 
 <div align="center">
