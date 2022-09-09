@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Hi there, I'm <a href="https://adamwreuben.github.io/me_portifolio/">Adam Reuben</a> 👋  Am a polyglot programmer, but have a huge preference for Go</h2>
+<h2 align="center">Hi there, I'm <a href="https://adamwreuben.github.io/me_portifolio/">Adam Reuben</a> 👋o</h2>
 
 <code align="center">Work smarter, not harder</code>
 
