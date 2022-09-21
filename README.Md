@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi there, I'm <a href="https://adamwreuben.github.io/me_portifolio/">Adam Reuben</a> 👋</h2>
 
-<code align="center">Work smarter, not harder</code>
+<code align="center">Work smarter, not harder. Becoz Commits don't matter</code>
 
 
 <div align="center">
